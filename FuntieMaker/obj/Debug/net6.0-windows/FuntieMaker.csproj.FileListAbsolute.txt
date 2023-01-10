@@ -1,0 +1,17 @@
+C:\Users\kodar\source\repos\FuntieMaker\bin\Debug\net6.0-windows\FuntieMaker.exe
+C:\Users\kodar\source\repos\FuntieMaker\bin\Debug\net6.0-windows\FuntieMaker.deps.json
+C:\Users\kodar\source\repos\FuntieMaker\bin\Debug\net6.0-windows\FuntieMaker.runtimeconfig.json
+C:\Users\kodar\source\repos\FuntieMaker\bin\Debug\net6.0-windows\FuntieMaker.dll
+C:\Users\kodar\source\repos\FuntieMaker\bin\Debug\net6.0-windows\FuntieMaker.pdb
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.csproj.AssemblyReference.cache
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.Form1.resources
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.csproj.GenerateResource.cache
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.AssemblyInfoInputs.cache
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.AssemblyInfo.cs
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.csproj.CoreCompileInputs.cache
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.dll
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\refint\FuntieMaker.dll
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.pdb
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\FuntieMaker.genruntimeconfig.cache
+C:\Users\kodar\source\repos\FuntieMaker\obj\Debug\net6.0-windows\ref\FuntieMaker.dll
