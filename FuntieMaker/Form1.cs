@@ -1,3 +1,6 @@
+// Het is toch bereken -> plot
+// via de FillEllips functie
+
 namespace FuntieMaker
 {
     public partial class Form1 : Form
